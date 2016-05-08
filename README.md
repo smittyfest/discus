@@ -3,5 +3,5 @@
 
 # Distributed-System Tools
 
-# Phi-Accrual Failure-Detector
+# ϕ-Accrual Failure-Detector
 A Failure-Detector based on the paper "The ϕ Accrual Failure Detector"
