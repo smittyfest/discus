@@ -4,4 +4,4 @@
 # distributed-systems tools
 
 # Phi-Accrual Failure-Detector
-A Failure-Detector
+A Failure-Detector based on
