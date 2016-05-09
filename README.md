@@ -4,4 +4,5 @@
 # Distributed-System Tools
 
 # ϕ-Accrual Failure-Detector
-A Failure-Detector based on the paper "The ϕ Accrual Failure Detector" by Naohiro Hayashibara, Xavier Défago
+A Failure-Detector based on the paper "The ϕ Accrual Failure Detector" by Naohiro Hayashibara,
+Xavier Défago, Rami Yared, 
