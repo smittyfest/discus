@@ -5,4 +5,4 @@
 
 # ϕ-Accrual Failure-Detector
 A Failure-Detector based on the paper "The ϕ Accrual Failure Detector" by Naohiro Hayashibara,
-Xavier Défago, Rami Yared, 
+Xavier Défago, Rami Yared, and Takuya Katayama.
